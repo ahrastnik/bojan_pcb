@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Bojan.PrjPCB
+[Project2]
+ProjectPath=..\Original files\Nucleo\Copy of MB1136.PrjPCB
+[Project3]
+ProjectPath=..\..\..\..\Google Chrome\Imported SOP65P1420X360-36N.lia\SOP65P1420X360-36N.LibPkg
